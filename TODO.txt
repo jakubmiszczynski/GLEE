@@ -1,0 +1,13 @@
+Module_3.1
+-Sprawdzić przy jakiej ilości zasłoniętych paneli urządzenie nie działa
+
+Module_3.2
+-Sprawdzić 5 Materiałów i ich przepuszalność świetlną, proponuję:
+Biała kartka
+Czarna kartka
+Szkło
+Szkło pokryte warstwą regolitu (symulacja pyłu który opadł na panel)
+Folia sporzywcza
+
+Module_4.1
+-Dokończyć pomiar z palcem
